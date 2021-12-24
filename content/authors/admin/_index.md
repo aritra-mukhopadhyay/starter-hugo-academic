@@ -28,15 +28,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: University of Hamburg
+      year: 2018
+    - course: B.S. & M.S. in Physics
+      institution: Indian Institute of Science Education and Research - Kolkata
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
