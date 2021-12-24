@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technical University of Darmstadt
+    url: https://www.tu-darmstadt.de/index.en.jsp
 education:
   courses:
     - course: PhD in Physics
