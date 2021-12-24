@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Hamburg
-      year: 2018
+      year: 2020
     - course: B.S. & M.S. in Physics
       institution: Indian Institute of Science Education and Research - Kolkata
       year: 2014
