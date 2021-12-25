@@ -37,7 +37,7 @@ url_source: ""
 url_video: ""
 title: Interactions in active colloids
 doi: 10.1088/1361-648x/ac3a86
-featured: false
+featured: true
 tags: []
 projects: []
 image:
