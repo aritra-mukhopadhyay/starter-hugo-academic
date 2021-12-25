@@ -37,7 +37,7 @@ url_source: ""
 url_video: ""
 title: Interactions in active colloids
 doi: 10.1088/1361-648x/ac3a86
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -47,7 +47,7 @@ image:
   filename: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/0953-8984/34/8/083002/revision2/cmac3a86f1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1641026561&Signature=N52BZVB%2F4ECopLDskmmQuRXIxoI%3D
 date: 2021-12-25T09:00:28.863Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
