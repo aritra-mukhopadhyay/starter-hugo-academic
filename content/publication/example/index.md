@@ -1,79 +1,55 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: The past two decades have seen a remarkable progress in the
+  development of synthetic colloidal agents which are capable of creating
+  directed motion in an unbiased environment at the microscale. These
+  self-propelling particles are often praised for their enormous potential to
+  self-organize into dynamic nonequilibrium structures such as living clusters,
+  synchronized super-rotor structures or self-propelling molecules featuring a
+  complexity which is rarely found outside of the living world. However, the
+  precise mechanisms underlying the formation and dynamics of many of these
+  structures are still barely understood, which is likely to hinge on the gaps
+  in our understanding of how active colloids interact. In particular, besides
+  showing comparatively short-ranged interactions which are well known from
+  passive colloids (Van der Waals, electrostatic etc), active colloids show
+  novel hydrodynamic interactions as well as phoretic and substrate-mediated
+  'osmotic' cross-interactions which hinge on the action of the phoretic field
+  gradients which are induced by the colloids on other colloids in the system.
+  The present article discusses the complexity and the intriguing properties of
+  these interactions which in general are long-ranged, non-instantaneous,
+  non-pairwise and non-reciprocal and which may serve as key ingredients for the
+  design of future nonequilibrium colloidal materials. Besides providing a brief
+  overview on the state of the art of our understanding of these interactions a
+  key aim of this review is to emphasize open key questions and corresponding
+  open challenges.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Benno Liebchen and Aritra K. Mukhopadhyay
+author_notes: []
+publication: "Journal of Physics: Condensed Matter"
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Interactions in active colloids
+doi: 10.1088/1361-648x/ac3a86
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/0953-8984/34/8/083002/revision2/cmac3a86f1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1641026561&Signature=N52BZVB%2F4ECopLDskmmQuRXIxoI%3D
+date: 2021-12-25T09:00:28.863Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
