@@ -3,25 +3,25 @@ title: Random person
 role: ""
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft Active Matter
+  - Chaos
+  - Nonlinear Dynamics
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/randominception
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=2UJeb74AAAAJ&hl=en&authuser=1
+  #- icon: github
+   # icon_pack: fab
+    #link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aritra-mukhopadhyay/
 organizations:
   - name: Technical University of Darmstadt
     url: https://www.tu-darmstadt.de/index.en.jsp
