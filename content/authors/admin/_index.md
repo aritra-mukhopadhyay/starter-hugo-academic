@@ -41,6 +41,7 @@ education:
       year: 2020
     - course: B.S. & M.S. in Physics
       institution: Indian Institute of Science Education and Research - Kolkata
+      url: https://www.iiserkol.ac.in/web/en/
       year: 2014
 email: ""
 superuser: true
