@@ -10,9 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/randominception
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2UJeb74AAAAJ&hl=en&authuser=1
@@ -22,6 +19,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aritra-mukhopadhyay/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/randominception
 organizations:
   - name: Technical University of Darmstadt
     url: https://www.tu-darmstadt.de/index.en.jsp
