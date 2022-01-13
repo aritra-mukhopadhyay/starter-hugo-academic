@@ -13,6 +13,15 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2UJeb74AAAAJ&hl=en&authuser=1
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4899-0491
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/1674968/aritra-k-mukhopadhyay/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Aritra-Mukhopadhyay-2
   #- icon: github
    # icon_pack: fab
     #link: https://github.com/gcushen
