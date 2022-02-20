@@ -22,29 +22,73 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professor
-    company: GenCoin
-    company_url: ''
+  - title: Post Doctoral Researcher
+    company: TU Darmstadt
+    company_url: 'https://www.tu-darmstadt.de/index.en.jsp'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Darmstadt, Germany
+    date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    #description: |2-
+     #   Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+      #  * Analysing
+      #  * Modelling
+      #  * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Doctoral Researcher
+    company: University of Hamburg
+    company_url: 'https://www.uni-hamburg.de/en.html'
+    company_logo: org-gc
+    location: Hamburg, Germany
+    date_start: '2014-09-01'
+    date_end: '2020-08-31'
+    #description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Doctoral Researcher
+    company: University of Hamburg
+    company_url: 'https://www.uni-hamburg.de/en.html'
+    company_logo: org-x
+    location: Hamburg, Germany
+    date_start: '2014-09-01'
+    date_end: '2020-08-31'
+    #description: Taught electronic engineering and researched semiconductor physics. 
+
+  - title: Graduate Student
+    company: Indian Institute of Science Education and Research - Kolkata
+    company_url: 'https://www.iiserkol.ac.in/web/en/#gsc.tab=0'
+    company_logo: org-x
+    location: Kolkata, India
+    date_start: '2009-08-01'
+    date_end: '2014-06-31'
+    #description: Taught electronic engineering and researched semiconductor physics. 
+
+  - title: Visiting Research Fellow
+    company: S.N. Bose National Centre for Basic Sciences
+    company_url: 'https://www.bose.res.in/'
+    company_logo: org-x
+    location: Kolkata, India
+    date_start: '2012-05-01'
+    date_end: '2014-01-31'
+    #description: Taught electronic engineering and researched semiconductor physics. 
+
+  - title: Visiting Research Fellow
+    company: Tata Institute of Fundamental Research
+    company_url: 'https://www.tifr.res.in/'
+    company_logo: org-x
+    location: Mumbai, India
+    date_start: '2013-05-01'
+    date_end: '2013-07-31'
+    #description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Visiting Research Fellow
+    company: Indian Institute of Science
+    company_url: 'https://iisc.ac.in/'
+    company_logo: org-x
+    location: Bangalore, India
+    date_start: '2011-05-01'
+    date_end: '2011-07-31'
+    #description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
 ---
