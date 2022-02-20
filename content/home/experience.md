@@ -66,7 +66,7 @@ experience:
   - title: Visiting Research Fellow
     company: Tata Institute of Fundamental Research
     company_url: 'https://www.tifr.res.in/'
-    company_logo: tifr.png
+    company_logo: org-gc
     location: Mumbai, India
     date_start: '2013-05-01'
     date_end: '2013-07-30'
@@ -75,7 +75,7 @@ experience:
   - title: Visiting Research Fellow
     company: Indian Institute of Science
     company_url: 'https://iisc.ac.in/'
-    company_logo: org-x
+    company_logo: iisc
     location: Bangalore, India
     date_start: '2011-05-01'
     date_end: '2011-07-30'
