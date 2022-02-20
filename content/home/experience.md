@@ -53,6 +53,33 @@ experience:
     date_start: '2009-08-01'
     date_end: '2014-06-30'
     #description: Taught electronic engineering and researched semiconductor physics. 
+
+  - title: Visiting Research Fellow
+    company: S.N. Bose National Centre for Basic Sciences
+    company_url: 'https://www.bose.res.in/'
+    company_logo: org-x
+    location: Kolkata, India
+    date_start: '2012-05-01'
+    date_end: '2014-01-30'
+    #description: Taught electronic engineering and researched semiconductor physics. 
+
+  - title: Visiting Research Fellow
+    company: Tata Institute of Fundamental Research
+    company_url: 'https://www.tifr.res.in/'
+    company_logo: org-x
+    location: Mumbai, India
+    date_start: '2013-05-01'
+    date_end: '2013-07-30'
+    #description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Visiting Research Fellow
+    company: Indian Institute of Science
+    company_url: 'https://iisc.ac.in/'
+    company_logo: org-x
+    location: Bangalore, India
+    date_start: '2011-05-01'
+    date_end: '2011-07-30'
+    #description: Taught electronic engineering and researched semiconductor physics.
  
 
 design:
