@@ -51,7 +51,7 @@ experience:
     company_logo: org-x
     location: Kolkata, India
     date_start: '2009-08-01'
-    #date_end: '2014-06-31'
+    date_end: '2014-06-30'
     #description: Taught electronic engineering and researched semiconductor physics. 
  
 
