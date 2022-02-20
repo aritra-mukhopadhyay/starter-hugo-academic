@@ -39,7 +39,7 @@ experience:
   - title: Doctoral Researcher
     company: University of Hamburg
     company_url: 'https://www.uni-hamburg.de/en.html'
-    company_logo: org-gc
+    company_logo: uhh
     location: Hamburg, Germany
     date_start: '2014-09-01'
     date_end: '2020-08-31'
