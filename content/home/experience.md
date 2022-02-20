@@ -53,15 +53,7 @@ experience:
     date_start: '2009-08-01'
     date_end: '2014-06-31'
     #description: Taught electronic engineering and researched semiconductor physics. 
-
-  - title: Visiting Research Fellow
-    company: S.N. Bose National Centre for Basic Sciences
-    company_url: 'https://www.bose.res.in/'
-    company_logo: org-x
-    location: Kolkata, India
-    date_start: '2012-05-01'
-    date_end: '2014-01-31'
-    #description: Taught electronic engineering and researched semiconductor physics. 
+ 
 
 design:
   columns: '2'
