@@ -20,12 +20,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: aritra.mukhopadhyay@pkm.tu-darmstadt.de
+#phone: 888 888 88 88
 address:
   street: S2|04 Hochschulstr. 8
   city: Darmstadt
-  region: CA
+  #region: DE
   postcode: '64285'
   country: Germany
   country_code: DE
@@ -40,12 +40,9 @@ address:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: email
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Send a DM on Twitter
+    link: 'https://twitter.com/randominception'
+
   #- icon: skype
   #  icon_pack: fab
   #  name: Skype Me
