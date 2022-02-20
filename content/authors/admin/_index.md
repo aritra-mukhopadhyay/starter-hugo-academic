@@ -1,6 +1,6 @@
 ---
-title: Random person
-role: ""
+title: Aritra K. Mukhopadhyay
+role: "Post-doctoral Researcher"
 bio: ""
 interests:
   - Soft Active Matter
