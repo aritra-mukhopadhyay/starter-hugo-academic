@@ -30,10 +30,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-12T15:48:48.255625Z'
+publishDate: '2022-02-20T19:41:33.137326Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Phys. Rev. Lett.*'
+abstract: We provide a generic scheme to separate the particles of a mixture by their
+  physical properties like mass, friction, or size. The scheme employs a periodically
+  shaken two-dimensional dissipative lattice and hinges on a simultaneous transport
+  of particles in species-specific directions. This selective transport is achieved
+  by controlling the late-time nonlinear particle dynamics, via the attractors embedded
+  in the phase space and their bifurcations. To illustrate the spectrum of possible
+  applications of the scheme, we exemplarily demonstrate the separation of polydisperse
+  colloids and mixtures of cold thermal alkali atoms in optical lattices.
+publication: '*Physical Review Letters*'
 doi: 10/gdtgvp
 ---

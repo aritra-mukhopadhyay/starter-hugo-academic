@@ -28,10 +28,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-12T15:48:44.843337Z'
+publishDate: '2022-02-20T19:41:30.428057Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Appl. Sci.*'
+abstract: We demonstrate that directed transport of particles in a two dimensional
+  driven lattice can be dynamically reversed multiple times by superimposing additional
+  spatially localized lattices on top of a background lattice. The timescales of such
+  current reversals can be flexibly controlled by adjusting the spatial locations
+  of the superimposed lattices. The key principle behind the current reversals is
+  the conversion of the particle dynamics from chaotic to ballistic, which allow the
+  particles to explore regions of the underlying phase space which are inaccessible
+  otherwise. Our results can be experimentally realized using cold atoms in driven
+  optical lattices and allow for the control of transport of atomic ensembles in such
+  setups.
+publication: '*Applied Sciences*'
 doi: 10/gg7hrb
 ---

@@ -29,10 +29,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-12T15:48:48.937406Z'
+publishDate: '2022-02-20T19:41:33.694050Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Phys. Rev. Research*'
+abstract: We demonstrate the directed transport of underdamped particles in two-dimensional
+  lattices of arbitrary geometry driven by an unbiased AC driving force. The direction
+  of transport can be controlled via the lattice geometry as well as the strength
+  and orientation of the oscillating drive. The breaking of the spatial inversion
+  symmetry, which is necessary for the emergence of directed transport, is achieved
+  solely due to the structure and geometry of the lattice. The most important criterion
+  determining the transport direction is shown to be the ballistic attractors underlying
+  the phase space of our weakly dissipative nonlinear dynamical system. This allows
+  the prediction of transport direction even for setups like driven oblique lattices
+  where the standard symmetry arguments of transport control fail. Our results can
+  be experimentally realized using holographic optical-lattice-based setups with colloids
+  or cold atoms.
+publication: '*Physical Review Research*'
 doi: 10/gjr9qb
 ---

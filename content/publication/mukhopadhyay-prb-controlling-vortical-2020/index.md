@@ -28,10 +28,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-12T15:48:46.230957Z'
+publishDate: '2022-02-20T19:41:31.518023Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Phys. Rev. B*'
+abstract: We demonstrate the control of vortical motion of neutral classical particles
+  in driven superlattices. Our superlattice consists of a superposition of individual
+  lattices whose potential depths are modulated periodically in time but with different
+  phases. This driving scheme breaks the spatial reflection symmetries and allows
+  an ensemble of particles to rotate with an average angular velocity. An analysis
+  of the underlying dynamical attractors provides an efficient method to control the
+  angular velocities of the particles by changing the driving amplitude. As a result,
+  spatially periodic patterns of particles showing different vortical motions can
+  be created. Possible experimental realizations include holographic optical lattice
+  based setups for colloids or cold atoms.
+publication: '*Physical Review B*'
 doi: 10/gn3snx
 ---

@@ -29,10 +29,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-12T15:48:45.519530Z'
+publishDate: '2022-02-20T19:41:30.966864Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Eur. Phys. J. B*'
+abstract: Following the connection of the non-linear Schrödinger equation with the
+  continuum Heisenberg spin chain, we find the rogue soliton equivalent in the spin
+  system. The breathers are also mapped to the corresponding space or time localized
+  oscillatory modes, through the moving curve analogy. The spatio-temporal evolution
+  of the curvature and torsion of the curve, underlying these dynamical systems, are
+  explicated to illustrate the localization property of the rogue waves.
+publication: '*The European Physical Journal B*'
 doi: 10/gn3spf
 ---
